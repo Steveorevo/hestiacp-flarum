@@ -1,5 +1,4 @@
 <?php
-
 namespace Hestia\WebApp\Installers\Flarum;
 
 use Hestia\System\Util;
